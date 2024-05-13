@@ -507,7 +507,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "qtpy_iomidi.step",
       "svg": "",
       "vrml": ""
     },
