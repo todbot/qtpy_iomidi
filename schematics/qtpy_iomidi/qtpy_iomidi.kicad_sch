@@ -3386,7 +3386,7 @@
 				)
 			)
 		)
-		(property "Footprint" "todbot_eagle2023:QTPY_TH"
+		(property "Footprint" "todbot_eagle2023:QTPY_TH_HEADERSOCKET"
 			(at 95.504 53.34 0)
 			(effects
 				(font
