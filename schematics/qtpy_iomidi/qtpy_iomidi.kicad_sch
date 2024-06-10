@@ -3850,6 +3850,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C431535"
+			(at 48.26 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "R2"
 			(uuid "bf2f1ad1-01b3-45bb-ad5a-396a53e219e0")
 		)
@@ -4360,6 +4369,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C431535"
+			(at 48.26 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "R2"
 			(uuid "f45ad5b8-830a-4441-a4e8-fd5cb2b9a8d0")
 		)
@@ -4426,6 +4444,15 @@
 			)
 		)
 		(property "Description" "Schmitt Trigger Output Optocoupler, High Speed, DIP-6, 1.6mA turn on threshold"
+			(at 87.63 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C78589"
 			(at 87.63 127 0)
 			(effects
 				(font
@@ -5567,8 +5594,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Light emitting diode, green"
 			(at 110.49 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C49678"
+			(at 110.49 120.65 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5906,8 +5942,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Light emitting diode, green"
 			(at 110.49 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C49678"
+			(at 110.49 148.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6638,8 +6683,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Light emitting diode, green"
 			(at 110.49 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C49678"
+			(at 110.49 177.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
